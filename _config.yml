@@ -1,6 +1,6 @@
 # Site settings
 course_name: Advanced ML for Generative AI
-course_description: "This course covers advanced machine learning techniques with a focus on generative AI. Topics include transformer architectures, large language models, diffusion models, multimodal learning, RLHF, RAG, and agentic systems. Students will engage with both the theoretical foundations and practical applications of modern generative AI."
+course_description: "A comprehensive journey through generative AI: from foundational statistical models (Gaussian, GMM) to advanced architectures (AE, VAE, GAN, Diffusion), domain-specialized generation (image, graph, language), and cutting-edge agentic systems."
 course_semester: "Spring-2026"
 
 baseurl: "/spring-2026" # the subpath of your site, e.g. /blog/
