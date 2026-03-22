@@ -17,18 +17,4 @@ You can either collaborate with a team or present individually. The choice of to
 I will be very careful taking note of this. Please pardon me for this!
 
 
-## Natural Disaster Modeling
-
-## Neural-Biology Analysis
-
-## Social Network
-
-## Agentic AI
-
-## Reasoning/Planning
-
-## Knowledge Retrieval
-
-## Security Issue
-
 

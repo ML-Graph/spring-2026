@@ -17,6 +17,11 @@ permalink: /materials/
 <br>
 [Matrix Notebook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
+## Course References
+* [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) — Language Generative Models
+* [Diffusion Models for Image Synthesis](https://arxiv.org/pdf/2403.18103) — Diffusion Model for Imaging and Vision
+* [Google: Diffusion Models Explained](https://www.youtube.com/watch?v=cS6JQpEY9cs) — Google Diffusion Model
+
 ## Optional Reading - Not required
 
 * [Material 1](https://bugs.python.org/file47781/Tutorial_EDIT.pdf): Python Tutorial

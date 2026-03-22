@@ -48,20 +48,3 @@ The project may be completed either individually or as a team; both approaches a
   - Feeling of this class.
 
 
-## * Infrastructure Mining and Machine Learning
-- Water/Power/Gas network
-- Transportation network
-- Networking system
-
-## * Neural Biology Learning
-- Brain Network
-- Protein/Molecule
-- Gene
-
-## Social Mining and Machine Learning
-- Reddit
-- Twitter
-- Bluesky
-- Amazon Recommender System
-
-## Document and Citation Networks
