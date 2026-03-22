@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-04-29
-title: Retrieval-Augmented Generation (RAG)
+title: Language Generative Model
 tldr: "Dense retrieval, RAG pipelines, and knowledge grounding."
 thumbnail: /static_files/presentations/lec.jpg
 links:

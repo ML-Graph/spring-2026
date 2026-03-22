@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-04-15
-title: Large Language Models I — Pre-training
+title: Autoencoder
 tldr: "LLM pre-training objectives, data, and scaling laws."
 thumbnail: /static_files/presentations/lec.jpg
 links:

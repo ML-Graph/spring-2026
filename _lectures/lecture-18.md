@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-05-29
-title: Applications II <br> Industry Case Studies
+title: Paper Presentation
 tldr: "Real-world deployments of generative AI across industries."
 thumbnail: /static_files/presentations/lec.jpg
 links:

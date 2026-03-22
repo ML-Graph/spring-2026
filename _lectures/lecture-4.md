@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-04-10
-title: Transformer Architecture
+title: Gaussian Mixture Model
 tldr: "Encoder-decoder transformers, BERT, GPT family."
 thumbnail: /static_files/presentations/lec.jpg
 links:
