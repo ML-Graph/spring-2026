@@ -1,6 +1,6 @@
 # Site settings
-course_name: Data Mining
-course_description: "Welcome to the fascinating field of data mining, a discipline at the intersection of computer science, statistics, and intelligence! Throughout this course, we’ll explore various data mining techniques, from regression to classification to clustering to association analysis. You’ll learn how to prepare data, select appropriate algorithms, and interpret results. Real-world examples and case studies will illustrate the practical applications of data mining across diverse industries."
+course_name: Advanced ML for Generative AI
+course_description: "This course covers advanced machine learning techniques with a focus on generative AI. Topics include transformer architectures, large language models, diffusion models, multimodal learning, RLHF, RAG, and agentic systems. Students will engage with both the theoretical foundations and practical applications of modern generative AI."
 course_semester: "Spring-2026"
 
 baseurl: "/spring-2026" # the subpath of your site, e.g. /blog/

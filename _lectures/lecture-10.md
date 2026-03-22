@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2026-02-11
-title: Neural Network
-tldr: "Short text to describe what this lecture is about."
+date: 2026-05-01
+title: Diffusion Models I
+tldr: "Score-based generative models, DDPM, and noise schedules."
 thumbnail: /static_files/presentations/lec.jpg
-links: 
+links:
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec10-Neural-Network.pdf)
+- Slides (TBD)

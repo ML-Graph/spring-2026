@@ -1,11 +1,10 @@
 ---
 type: lecture
-date: 2026-01-07
-title: Logistics <br> Basics
-tldr: "Short text to describe what this lecture is about."
+date: 2026-04-03
+title: Deep Learning Foundations
+tldr: "Review of neural networks, backpropagation, and key building blocks."
 thumbnail: /static_files/presentations/lec.jpg
-links: 
+links:
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec2-Overview.pdf)
-- [Codes](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec2-Overview.ipynb)
+- Slides (TBD)

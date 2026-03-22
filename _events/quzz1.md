@@ -1,9 +1,9 @@
 ---
 type: exam
-date: 2026-02-09T1:20
-description: 'Quzz 1'
+date: 2026-05-06T08:30:00
+description: 'Quiz 1'
 hide_from_announcments: true
 ---
 **Topics:**
-- Lecture 1 - Lecture 8
+- Lectures 1–8 (Transformers, LLMs, Prompt Engineering, RLHF)
 - Closed Book

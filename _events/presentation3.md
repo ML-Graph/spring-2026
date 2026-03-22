@@ -1,10 +1,10 @@
 ---
 type: raw_event
-date: 2026-02-18T
+date: 2026-05-27T08:30:00
 description: 'Presentation 3'
 hide_from_announcments: true
 ---
 **Group**
-- Group 5: 7-7:15 pm
-- Group 6: 7:15-7:30 pm
-- [Zoom](https://uoregon.zoom.us/j/4052006678)
+- Group 5: 8:30–8:45 am
+- Group 6: 8:45–9:00 am
+

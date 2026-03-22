@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2026-01-14
-title: Classification <br> Decision Tree
-tldr: "Short text to describe what this lecture is about."
+date: 2026-04-10
+title: Transformer Architecture
+tldr: "Encoder-decoder transformers, BERT, GPT family."
 thumbnail: /static_files/presentations/lec.jpg
-links: 
+links:
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec4-Classification2.pdf)
+- Slides (TBD)

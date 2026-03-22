@@ -1,7 +1,7 @@
 ---
 type: raw_event
-date: 2026-01-19T08:00:00+3:30
-name: Martin Luther King, Jr holiday
-description: 'Enjoy :)'
+date: 2026-05-25T08:00:00
+name: Memorial Day Holiday
+description: 'No class — University closed.'
 hide_from_announcments: true
 ---

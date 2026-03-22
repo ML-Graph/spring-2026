@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2026-01-28
-title: Dimension Reduction <br> PCA
-tldr: "Short text to describe what this lecture is about."
+date: 2026-04-22
+title: Prompt Engineering
+tldr: "Zero-shot, few-shot, chain-of-thought, and structured prompting."
 thumbnail: /static_files/presentations/lec.jpg
-links: 
+links:
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec6-PCA.pdf)
+- Slides (TBD)

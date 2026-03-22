@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2026-02-16
-title: Graph Mining 1
-tldr: "Short text to describe what this lecture is about."
+date: 2026-05-06
+title: Diffusion Models II — Latent Diffusion
+tldr: "Latent space diffusion, conditioning, and image generation."
 thumbnail: /static_files/presentations/lec.jpg
-links: 
+links:
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec10:11:12-GraphMining.pdf)
+- Slides (TBD)

@@ -1,11 +1,10 @@
 ---
 type: lecture
-date: 2026-03-02
-title: Language Mining
-tldr: "Short text to describe what this lecture is about."
+date: 2026-05-20
+title: Evaluation & Benchmarking
+tldr: "Metrics, benchmarks, and evaluation challenges for generative models."
 thumbnail: /static_files/presentations/lec.jpg
-links: 
+links:
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec14-LanguageMining.pdf)
-- [Codes](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec14-rnn_transformer.ipynb)
+- Slides (TBD)

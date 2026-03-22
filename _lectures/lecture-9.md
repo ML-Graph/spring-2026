@@ -1,12 +1,10 @@
 ---
 type: lecture
-date: 2026-02-04
-title: Neural Network
-tldr: "Short text to describe what this lecture is about."
+date: 2026-04-29
+title: Retrieval-Augmented Generation (RAG)
+tldr: "Dense retrieval, RAG pipelines, and knowledge grounding."
 thumbnail: /static_files/presentations/lec.jpg
-links: 
+links:
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Lec8-NN2.pdf)
-- [Midterm Review](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/Midterm-Review.pdf)
-- [Code](https://ml-graph.github.io/winter-2026/static_files/presentations/slides/NNHourse-Prediction.zip)
+- Slides (TBD)
