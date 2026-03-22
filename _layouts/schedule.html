@@ -27,7 +27,11 @@ layout: default
     
 
     {% for event in all_events_sorted %}
-    <li class="table-row table-row-{{ event.type}}">
+    {% assign extra_class = "" %}
+    {% if event.title contains "In Class Coding" %}{% assign extra_class = "table-row-coding" %}{% endif %}
+    {% if event.title contains "Paper Presentation" %}{% assign extra_class = "table-row-paper" %}{% endif %}
+    {% if event.title contains "Project Showcase" %}{% assign extra_class = "table-row-showcase" %}{% endif %}
+    <li class="table-row table-row-{{ event.type}} {{ extra_class }}">
         {% include schedule_row_{{ event.type }}.html event=event %}
     </li>
     {% endfor %}
