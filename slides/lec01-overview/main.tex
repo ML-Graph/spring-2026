@@ -1,0 +1,85 @@
+\documentclass[aspectratio=169]{beamer}
+
+% ── Theme ────────────────────────────────────────────────────────────────────
+\usetheme{Madrid}
+\usecolortheme{default}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
+
+% ── Packages ─────────────────────────────────────────────────────────────────
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+% ── Colors ───────────────────────────────────────────────────────────────────
+\definecolor{uogreen}{RGB}{0, 110, 60}
+\setbeamercolor{structure}{fg=uogreen}
+\setbeamercolor{title}{fg=white, bg=uogreen}
+\setbeamercolor{frametitle}{fg=white, bg=uogreen}
+
+% ── Title Info ────────────────────────────────────────────────────────────────
+\title{Course Overview \& Introduction to Generative AI}
+\subtitle{Advanced ML for Generative AI}
+\author{Yu Wang}
+\institute{Department of Computer Science \\ University of Oregon}
+\date{April 1, 2026}
+
+% ─────────────────────────────────────────────────────────────────────────────
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+  \tableofcontents
+\end{frame}
+
+% ── Section 1 ─────────────────────────────────────────────────────────────────
+\section{Course Logistics}
+
+\begin{frame}{Course Logistics}
+  \begin{itemize}
+    \item Lectures: Wednesday / Friday, 8:30--9:50am, 16 Pacific
+    \item Office Hours: Wednesday 7:30--8:00pm (Zoom)
+    \item Grading:
+    \begin{itemize}
+      \item In-class Coding Presentations (2×): 30\%
+      \item Project + Showcase: 45\%
+      \item Paper Presentation: 15\%
+      \item Participation: 5\%
+      \item Overleaf Bonus: 5\%
+    \end{itemize}
+  \end{itemize}
+\end{frame}
+
+% ── Section 2 ─────────────────────────────────────────────────────────────────
+\section{What is Generative AI?}
+
+\begin{frame}{What is Generative AI?}
+  \begin{itemize}
+    \item Models that \textbf{generate} new data resembling training data
+    \item Four tiers in this course:
+    \begin{enumerate}
+      \item Foundational: Gaussian, GMM
+      \item Architectures: AE, VAE, GAN, Diffusion
+      \item Domain: Image, Graph, Language generation
+      \item Agentic: LLM agents, tool use, multi-agent systems
+    \end{enumerate}
+  \end{itemize}
+\end{frame}
+
+% ── Add more frames here ───────────────────────────────────────────────────────
+
+\begin{frame}{Summary}
+  \begin{itemize}
+    \item[$\bullet$] Point 1
+    \item[$\bullet$] Point 2
+    \item[$\bullet$] Point 3
+  \end{itemize}
+\end{frame}
+
+\end{document}
