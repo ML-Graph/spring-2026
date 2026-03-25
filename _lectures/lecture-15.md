@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2026-05-20
-title: Agentic AI 2 - Advanced Topics
-tldr: "Metrics, benchmarks, and evaluation challenges for generative models."
+date: 2026-05-22
+title: Multi-modal Generation 2
+tldr: "Cross-modal generation, text-to-image, and unified models."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---

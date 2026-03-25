@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2026-04-08
-title: Gaussian Kernel Density Estimation
-tldr: "Self-attention, multi-head attention, and positional encoding."
+date: 2026-04-10
+title: Gaussian Mixture Model
+tldr: "Encoder-decoder transformers, BERT, GPT family."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---

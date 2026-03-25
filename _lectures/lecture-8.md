@@ -1,9 +1,8 @@
 ---
 type: lecture
-date: 2026-04-24
-title: In Class Coding Presentation
-color: coding
-tldr: "Reinforcement learning from human feedback, DPO, Constitutional AI."
+date: 2026-04-29
+title: Language Generative Model
+tldr: "Language model pre-training, GPT family, and text generation."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---

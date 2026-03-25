@@ -1,11 +1,9 @@
 ---
 type: lecture
-date: 2026-05-29
-title: Paper Presentation
-color: paper
-tldr: "Real-world deployments of generative AI across industries."
+date: 2026-06-03
+title: Project Showcase
+color: showcase
+tldr: "Student presentations of final projects."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
-**Course Materials:**
-- Slides (TBD)

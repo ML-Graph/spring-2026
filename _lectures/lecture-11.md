@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2026-05-06
-title: Graph Generative Model
-tldr: "Latent space diffusion, conditioning, and image generation."
+date: 2026-05-08
+title: In Class Coding Presentation
+color: coding
+tldr: "Hands-on coding session on image generative models."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
 **Course Materials:**
-- Slides (TBD)

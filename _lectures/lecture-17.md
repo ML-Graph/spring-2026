@@ -1,9 +1,8 @@
 ---
 type: lecture
-date: 2026-05-27
-title: Paper Presentation
-color: paper
-tldr: "Copilot, AlphaFold-style models, and domain-specific Gen AI."
+date: 2026-05-29
+title: Agentic AI 2 - Advanced Topics
+tldr: "Planning, memory, and long-horizon agentic systems."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
