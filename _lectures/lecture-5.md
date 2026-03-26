@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-04-17
+date: 2026-04-15
 title: In Class Coding Presentation
 color: coding
 tldr: "Hands-on coding session on Gaussian models."
