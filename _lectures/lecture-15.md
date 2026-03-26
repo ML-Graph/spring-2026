@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-05-22
-title: Multi-modal Generation 2
-tldr: "Cross-modal generation, text-to-image, and unified models."
+title: Agentic AI 1 - Foundation
+tldr: "Agentic frameworks, tool calling, ReAct, and multi-agent systems."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
