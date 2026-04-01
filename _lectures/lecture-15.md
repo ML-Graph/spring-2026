@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-05-22
+date: 2026-05-20
 title: Agentic AI - Foundation
 tldr: "Agentic frameworks, tool calling, ReAct, and multi-agent systems."
 thumbnail: /static_files/presentations/lec.jpg
