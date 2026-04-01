@@ -21,7 +21,7 @@ permalink: /materials/
 * [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) — Language Generative Models
 * [Diffusion Models for Image Synthesis](https://arxiv.org/pdf/2403.18103) — Diffusion Model for Imaging and Vision
 * [Google: Diffusion Models Explained](https://www.youtube.com/watch?v=cS6JQpEY9cs) — Google Diffusion Model
-* [A Survey on Graph Diffusion Models](https://arxiv.org/abs/2209.14734) — Graph Diffusion Tutorial
+* [Discrete Graph Diffusion](https://arxiv.org/abs/2209.14734) — Discrete Graph Diffusion
 
 ## Optional Reading - Not required
 
