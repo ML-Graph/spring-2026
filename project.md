@@ -36,7 +36,13 @@ The project may be completed either individually or as a team; both approaches a
   - What kind of experiments do you run to evaluate your model?
     - I evaluate generation quality using FID score and CLIP similarity on a held-out test set, and conduct ablations on the number of diffusion steps and classifier-free guidance scale.
 
-### 3. Discussion - 10%
+### 3. Demo - 10%
+- **Demo - 10%**:
+  - Build a runnable demonstration of your project — this can be a Jupyter notebook walkthrough, a Gradio/Streamlit web app, or a short recorded screen-capture video (≤ 3 min).
+  - The demo should show your model working end-to-end on at least one real example: provide an input, run your model, and display or visualise the output.
+  - Example: a text-conditioned image generator where a user types a prompt and the generated image appears in the app, with side-by-side comparison against a baseline.
+
+### 4. Discussion - 10%
 - **Discussion - 5%**: 
   - Any further discussion on your exploration of this project?
     - I compare the fine-tuned model against the base pretrained model and find a clear improvement in domain-specific fidelity while maintaining diversity.
