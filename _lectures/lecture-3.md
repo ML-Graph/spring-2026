@@ -7,4 +7,5 @@ thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
 **Course Materials:**
-- Slides (TBD)
+- [Slides](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec3-GaussianMixture.pdf)
+- [Codes](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec3-GaussianMixture.ipynb)

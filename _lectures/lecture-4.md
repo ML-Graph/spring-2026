@@ -7,4 +7,4 @@ thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
 **Course Materials:**
-- Slides (TBD)
+- [Codes](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec4-ClassCoding.ipynb)
