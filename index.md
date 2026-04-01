@@ -8,7 +8,7 @@ layout: home
 |---|---|
 | **Instructor** | Prof. Yu (Jack) Wang — [yuwang@uoregon.edu](mailto:yuwang@uoregon.edu) |
 | **Office Hours** | Wednesday 7:00–8:00 pm PST · [Zoom](https://uoregon.zoom.us/j/4052006678) · and by appointment |
-| **Lectures** | Wednesday & Friday, in person |
+| **Lectures** | Wednesday & Friday, 8:30–9:50 am · Pacific Hall 16 |
 | **Website** | [https://ml-graph.github.io/spring-2026/](https://ml-graph.github.io/spring-2026/) |
 | **Schedule** | [https://ml-graph.github.io/spring-2026/schedule/](https://ml-graph.github.io/spring-2026/schedule/) |
 | **Canvas** | Assignments, grades, and announcements |
