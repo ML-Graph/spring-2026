@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# CS 471/571 · Advanced ML for Generative AI · Spring 2026
+# CS 610 · Advanced ML for Generative AI · Spring 2026
 
 | | |
 |---|---|
