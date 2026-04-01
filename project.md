@@ -12,38 +12,36 @@ The project may be completed either individually or as a team; both approaches a
 ### 1. Background and Problem Formulation - 10%
 - **Background - 5%**: 
   - What is the general background of the problem you are working on?
-    - I want to develop a better paper categorization system
+    - I want to build a generative AI system that can produce realistic and diverse images of natural scenes conditioned on text descriptions.
 - **Problem Formulation - 5%**: 
   - Under the general topic, what specific problem is your project addressing?
-    - I want to develop a machine learning model/algorithm to take input of the paper, output the paper topic (machine learning, computer system, human-computer collaboration, etc.)
+    - I want to develop a diffusion-based generative model that takes a text prompt as input and outputs a high-fidelity image, targeting a specific domain such as medical imaging or satellite imagery.
 
-### 2. Data Mining Stage - 35%
+### 2. Data Mining and Machine Learning Stage - 70%
 - **Data Collection and Store - 15%**: 
   - What data are you looking to kick off your project? How do you collect them? What data structure do you use to represent them?
-    - I collect Cora/Citeseer/Pubmed Data from somewhere (e.g., a paper, a GitHub repository, Hugging Face, etc.), and I use an adjacency list to store their connection and a matrix to store their node feature
+    - I collect image-text paired data from a publicly available dataset (e.g., LAION, MS-COCO, or a domain-specific dataset from Hugging Face), and I store images as tensors with their corresponding text captions in a structured dataset class.
 - **Data Mining - 20%**: 
-  - What kind of data mining problem do you need to do and why? 
-    - I need to analyze the network homophily/heterophily since leveraging this property might help me develop a better machine learning model for paper classification.
+  - What kind of data analysis do you need to do and why? 
+    - I need to analyze the distribution of the image data and the alignment between text and image pairs, since understanding this helps me design a better conditioning mechanism for the generative model.
   - How do you do it?
-    - I calculate for every edge, the two ending points, whether they are in the same class or not, and quantify the average ratio as a homophily ratio
+    - I compute CLIP similarity scores between image-text pairs to quantify alignment quality, and visualize the latent space using t-SNE to understand how different categories cluster in the embedding space.
   - What kind of pattern do you find? How do you present your findings/analysis?
-    - I find that in many paper citation networks, the homophily is pretty high. Using Number/Table/Figure, etc.
+    - I find that certain text descriptors (e.g., "photorealistic", "aerial view") strongly cluster the latent representations. I present findings using similarity histograms and 2D embedding plots.
+- **Machine Learning Model Design - 35%**: 
+  - Based on your targeted problem, what kind of generative model do you want to build and why?
+    - I want to build a latent diffusion model conditioned on text embeddings to leverage the discovered structure in the CLIP latent space.
+  - How do you build your model, and what is the key design?
+    - The key design is a U-Net denoising network operating in latent space, with cross-attention layers to incorporate text conditioning; I use the Diffusers library and fine-tune a pretrained checkpoint on my target domain.
+  - What kind of experiments do you run to evaluate your model?
+    - I evaluate generation quality using FID score and CLIP similarity on a held-out test set, and conduct ablations on the number of diffusion steps and classifier-free guidance scale.
 
-### 3. Machine Learning Stage - 35%
-- **Machine Learning Model Design**: 
-  - Based on your targeted problem, what kind of machine learning model do you want to build and why?
-    - I want to build a graph neural network to fully exploit the discovered homophily principle.
-  - How do you build your machine learning model, and what is the key design?
-    - The key design is to aggregate neighborhood information together, and I use the PyTorch Geometric Package, and within this package, certain functions can help me achieve my design philosophy
-  - What kind of experiments do you have to achieve your task?
-    - I conduct paper classification by taking the paper as input through my graph neural network, and it helps me achieve very high node classification performance.
-
-### 4. Discussion - 10%
+### 3. Discussion - 10%
 - **Discussion - 5%**: 
   - Any further discussion on your exploration of this project?
-    - I take networks of different homophily and derive a clear positive relation between node classification and homophily level.
+    - I compare the fine-tuned model against the base pretrained model and find a clear improvement in domain-specific fidelity while maintaining diversity.
   - Any further thinking and interesting questions you can ask about this project?
-    - How about the network performance on a heterophily network like dating networks? If we maliciously upload some papers that are meaningless, would that compromise the performance?
+    - How does the model behave when given out-of-distribution prompts? Could the generative model be used adversarially to synthesize misleading domain imagery (e.g., fake satellite data)?
 - **Feeling of this class - 5%**: 
   - Feeling of this class.
 
