@@ -69,20 +69,19 @@ Slides and notebooks for each session are linked on the [schedule page](https://
 
 | Date | Topic |
 |---|---|
-| Wed 04/29 | **Language Generative Model + In-Class Coding** |
-| Fri 05/01 | Image Generative Models |
-| Wed 05/06 | Graph Generative Models |
-| Fri 05/08 | **In-Class Coding 3 — Graph** |
-| Wed 05/13 | Multi-modal Generation |
-| Fri 05/15 | **In-Class Coding 4 — Multi-modal** |
+| Wed 04/29 | Language Generative Models |
+| Fri 05/01 | **In-Class Coding 3 — Language** |
+| Wed 05/06 | Image Generative Models |
+| Fri 05/08 | **In-Class Coding 4 — Image** |
+| Wed 05/13 | Graph Generative Models |
+| Fri 05/15 | **In-Class Coding 5 — Graph** |
+| Wed 05/20 | Multi-modal Generation |
 
 ### Module 4 — Agentic AI
 
 | Date | Topic |
 |---|---|
-| Wed 05/20 | Agentic AI — Foundations |
 | Fri 05/22 | Agentic AI — Discovery & Trustworthiness |
-| Wed 05/27 | **Project Clinic / In-Class Coding (Optional)** |
 
 ### Final — Project Showcase
 
@@ -98,10 +97,10 @@ Slides and notebooks for each session are linked on the [schedule page](https://
 | Component | Weight |
 |---|---|
 | In-Class Coding 1 — Gaussian · KDE · GMM | 10% |
-| In-Class Coding 2 — GAN + Language | 10% |
-| In-Class Coding 3 — Image | 10% |
-| In-Class Coding 4 — Graph | 10% |
-| In-Class Coding 5 — Multi-modal | 10% |
+| In-Class Coding 2 — (V)AE + GAN | 10% |
+| In-Class Coding 3 — Language | 10% |
+| In-Class Coding 4 — Image | 10% |
+| In-Class Coding 5 — Graph | 10% |
 | Project Write-up | 30% |
 | Project Showcase | 20% |
 | **Total** | **100%** |

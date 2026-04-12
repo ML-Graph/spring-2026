@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-05-20
-title: Agentic AI - Foundation
-tldr: "Agentic frameworks, tool calling, ReAct, and multi-agent systems."
+title: Multi-modal Generation
+tldr: "CLIP, BLIP, GPT-4V, and multimodal alignment."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---

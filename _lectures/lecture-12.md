@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-05-06
-title: Graph Generative Model
-tldr: "GNNs, molecular generation, and graph diffusion."
+title: Image Generative Models
+tldr: "Image generation overview: GAN variants, score-based models, DDPM, and noise schedules."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---

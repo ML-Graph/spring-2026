@@ -7,4 +7,5 @@ thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
 **Course Materials:**
-- Codes: `spring-2026/slides/Lec5-(V)AE/Lec5-AE-VAE.ipynb`
+- Slides (TBD)
+- Codes (TBD)
