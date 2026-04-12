@@ -1,0 +1,13 @@
+.DS_Store
+**/.DS_Store
+
+# Office temp files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
