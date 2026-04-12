@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-04-08
-title: Gaussian Mixture Model
-tldr: "Encoder-decoder transformers, BERT, GPT family."
+title: High-Dimensional Gaussian and Gaussian Mixture Model
+tldr: "Multivariate Gaussians in high dimensions and Gaussian Mixture Models (GMM): EM and probabilistic clustering."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---

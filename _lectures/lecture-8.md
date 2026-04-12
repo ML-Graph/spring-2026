@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-04-22
-title: Language Generative Model
-tldr: "Language model pre-training, GPT family, and text generation."
+title: Generative Adversarial Networks (GAN)
+tldr: "GAN objective, minimax game, training dynamics, and common variants."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---

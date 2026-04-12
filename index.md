@@ -45,7 +45,7 @@ By the end of this course, students will be able to:
 ## Schedule
 
 Slides and notebooks for each session are linked on the [schedule page](https://ml-graph.github.io/spring-2026/schedule/).
-**Bold** rows are in-class coding sessions (graded).
+**Bold** rows are in-class coding sessions (graded unless marked Optional).
 
 ### Module 1 — Probabilistic Foundations
 
@@ -53,36 +53,36 @@ Slides and notebooks for each session are linked on the [schedule page](https://
 |---|---|
 | Wed 04/01 | Course Overview · Introduction to Generative AI |
 | Fri 04/03 | Gaussian Kernel Density Estimation |
-| Wed 04/08 | Gaussian Mixture Models |
+| Wed 04/08 | High-Dimensional Gaussian · Gaussian Mixture Models (GMM) |
 | Fri 04/10 | **In-Class Coding 1 — Gaussian · KDE · GMM** |
 
 ### Module 2 — Deep Generative Models
 
 | Date | Topic |
 |---|---|
-| Wed 04/15 | Autoencoder and Variational Autoencoder |
-| Fri 04/17 | Generative Adversarial Networks (GAN) |
-| Wed 04/22 | Language Generative Models |
-| Fri 04/24 | **In-Class Coding 2 — GAN + Language** |
+| Wed 04/15 | Gaussian Mixture Model · Linear Autoencoder (PCA) |
+| Fri 04/17 | Autoencoder and Variational Autoencoder |
+| Wed 04/22 | Generative Adversarial Networks (GAN) |
+| Fri 04/24 | **In-Class Coding 2 — (V)AE + GAN** |
 
 ### Module 3 — Domain-Specialized Generation
 
 | Date | Topic |
 |---|---|
-| Wed 04/29 | Image Generative Models |
-| Fri 05/01 | **In-Class Coding 3 — Image** |
+| Wed 04/29 | **Language Generative Model + In-Class Coding** |
+| Fri 05/01 | Image Generative Models |
 | Wed 05/06 | Graph Generative Models |
-| Fri 05/08 | **In-Class Coding 4 — Graph** |
+| Fri 05/08 | **In-Class Coding 3 — Graph** |
 | Wed 05/13 | Multi-modal Generation |
-| Fri 05/15 | **In-Class Coding 5 — Multi-modal** |
+| Fri 05/15 | **In-Class Coding 4 — Multi-modal** |
 
 ### Module 4 — Agentic AI
 
 | Date | Topic |
 |---|---|
 | Wed 05/20 | Agentic AI — Foundations |
-| Fri 05/22 | Agentic AI — Discovery |
-| Wed 05/27 | Agentic AI — Trustworthiness |
+| Fri 05/22 | Agentic AI — Discovery & Trustworthiness |
+| Wed 05/27 | **Project Clinic / In-Class Coding (Optional)** |
 
 ### Final — Project Showcase
 

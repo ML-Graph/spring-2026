@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-04-15
-title: Autoencoder and Variational Autoencoder
-tldr: "Encoder-decoder architectures, bottleneck representations, ELBO, and reparameterization trick."
+title: Gaussian Mixture Model and Linear Autoencoder
+tldr: "GMM recap and the bridge to representation learning: linear autoencoders, low-rank projections, and the PCA connection."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
