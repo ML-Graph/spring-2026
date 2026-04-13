@@ -5,6 +5,11 @@ title: Gaussian Mixture Model and Linear Autoencoder
 tldr: "GMM recap and the bridge to representation learning: linear autoencoders, low-rank projections, and the PCA connection."
 thumbnail: /static_files/presentations/lec.jpg
 links:
+  - name: Slides
+    url: /static_files/presentations/slides/Lec5-(V)AE.pdf
+  - name: Codes
+    url: /static_files/presentations/slides/Lec5-AE-VAE.ipynb
 ---
 **Course Materials:**
-- [Codes](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec4-ClassCoding.ipynb)
+- [Slides](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec5-(V)AE.pdf)
+- [Codes](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec5-AE-VAE.ipynb)
