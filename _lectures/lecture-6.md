@@ -1,10 +1,9 @@
 ---
 type: lecture
 date: 2026-04-17
-title: Autoencoder and Variational Autoencoder
-tldr: "Encoder-decoder architectures, bottleneck representations, ELBO, and the reparameterization trick."
+title: PCA and Linear Autoencoder
+tldr: "PCA as a reconstruction objective, and why a linear autoencoder is equivalent to PCA."
 thumbnail: /static_files/presentations/lec.jpg
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec5-(V)AE.pdf)
-- [Codes](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec5-AE-VAE.ipynb)
+- [Slides](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec6-PCA.pdf)

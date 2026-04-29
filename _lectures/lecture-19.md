@@ -1,9 +1,8 @@
 ---
 type: lecture
 date: 2026-05-29
-title: Project Showcase
-color: showcase
-tldr: "Student presentations of final projects."
+title: Agentic AI - Workflow
+tldr: "Agentic workflows: planning, tool use, memory, and evaluation."
 thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
