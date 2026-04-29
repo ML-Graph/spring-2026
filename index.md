@@ -91,7 +91,7 @@ Slides and notebooks for each session are linked on the [schedule page](https://
 
 | Component | Weight |
 |---|---|
-| In-Class Coding Presentations (×5) | 25% |
+| In-Class Coding Presentations (×4) | 25% |
 
 **Grading Scale**
 
@@ -106,7 +106,7 @@ Slides and notebooks for each session are linked on the [schedule page](https://
 | Activity | Undergrad (hrs) | Graduate (hrs) |
 |---|---|---|
 | Lectures | 30 | 30 |
-| In-class coding sessions (×5) | 15 | 20 |
+| In-class coding sessions (×4) | 15 | 20 |
 | Readings & review | 15 | 20 |
 
 ---
