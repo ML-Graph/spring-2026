@@ -91,7 +91,11 @@ Slides and notebooks for each session are linked on the [schedule page](https://
 
 | Component | Weight |
 |---|---|
-| In-Class Coding Presentations (×4) | 25% |
+| In-Class Coding Presentation 1 | 25% |
+| In-Class Coding Presentation 2 | 25% |
+| In-Class Coding Presentation 3 | 25% |
+| In-Class Coding Presentation 4 | 25% |
+| **Total** | **100%** |
 
 **Grading Scale**
 
