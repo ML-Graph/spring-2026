@@ -7,7 +7,11 @@
     {{ include.event.title }} released!
 </div>
 <div class="col col-4" data-label="Course Material">
-    [<a href="{{ site.url }}{{ site.baseurl }}/project/">{{ include.event.title }}</a>]
+    {% if include.event.url %}
+    [<a href="{{ include.event.url | prepend: site.baseurl }}">{{ include.event.title }}</a>]
+    {% else %}
+    [{{ include.event.title }}]
+    {% endif %}
     {% if include.event.solutions %}
     [<a href="{{ include.event.solutions | prepend: site.baseurl}}">Solutions</a>]
     {% endif %}

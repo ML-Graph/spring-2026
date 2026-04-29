@@ -7,10 +7,6 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
-- url: /project/
-  name: Project
-  icon_class: fas fa-project-diagram
-
 - url: /materials/
   name: Materials
   icon_class: fas fa-book

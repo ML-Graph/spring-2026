@@ -60,35 +60,30 @@ Slides and notebooks for each session are linked on the [schedule page](https://
 
 | Date | Topic |
 |---|---|
-| Wed 04/15 | Gaussian Mixture Model · Linear Autoencoder (PCA) |
-| Fri 04/17 | Autoencoder and Variational Autoencoder |
-| Wed 04/22 | Generative Adversarial Networks (GAN) |
+| Wed 04/15 | Gaussian Mixture Model |
+| Fri 04/17 | PCA and Linear Autoencoder |
+| Wed 04/22 | Autoencoder |
 | Fri 04/24 | **In-Class Coding 2 — (V)AE + GAN** |
 
 ### Module 3 — Domain-Specialized Generation
 
 | Date | Topic |
 |---|---|
-| Wed 04/29 | Language Generative Models |
-| Fri 05/01 | **In-Class Coding 3 — Language** |
-| Wed 05/06 | Image Generative Models |
-| Fri 05/08 | **In-Class Coding 4 — Image** |
-| Wed 05/13 | Graph Generative Models |
-| Fri 05/15 | **In-Class Coding 5 — Graph** |
-| Wed 05/20 | Multi-modal Generation |
+| Wed 04/29 | Variational Autoencoder / GAN |
+| Fri 05/01 | Diffusion 1 |
+| Wed 05/06 | Diffusion 2 |
+| Fri 05/08 | **In-Class Coding Presentation** |
+| Wed 05/13 | Graph Generative Model 1 |
+| Fri 05/15 | Graph Generative Model 2 |
+| Wed 05/20 | Language Generative Model |
+| Fri 05/22 | **In-Class Coding Presentation** |
 
 ### Module 4 — Agentic AI
 
 | Date | Topic |
 |---|---|
-| Fri 05/22 | Agentic AI — Discovery & Trustworthiness |
-
-### Final — Project Showcase
-
-| Date | Topic |
-|---|---|
-| Fri 05/29 | Project Showcase |
-| Wed 06/03 | Project Showcase |
+| Fri 05/29 | Agentic AI - Workflow |
+| Wed 06/03 | Agentic AI - Discovery & Trustworthiness |
 
 ---
 
@@ -96,22 +91,13 @@ Slides and notebooks for each session are linked on the [schedule page](https://
 
 | Component | Weight |
 |---|---|
-| In-Class Coding 1 — Gaussian · KDE · GMM | 10% |
-| In-Class Coding 2 — (V)AE + GAN | 10% |
-| In-Class Coding 3 — Language | 10% |
-| In-Class Coding 4 — Image | 10% |
-| In-Class Coding 5 — Graph | 10% |
-| Project Write-up | 30% |
-| Project Showcase | 20% |
-| **Total** | **100%** |
+| In-Class Coding Presentations (×5) | 25% |
 
 **Grading Scale**
 
 | Grade | A+ | A | A− | B+ | B | B− | C+ | C | C− | F |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Range | 98–100 | 93–97 | 90–92 | 87–89 | 83–86 | 80–82 | 77–79 | 73–76 | 60–72 | < 60 |
-
-Project rubric details: [project page](https://ml-graph.github.io/spring-2026/project/)
 
 ---
 
@@ -121,11 +107,7 @@ Project rubric details: [project page](https://ml-graph.github.io/spring-2026/pr
 |---|---|---|
 | Lectures | 30 | 30 |
 | In-class coding sessions (×5) | 15 | 20 |
-| Final project | 60 | 90 |
 | Readings & review | 15 | 20 |
-| **Total** | **120** | **160** |
-
-Approximately **12 hrs/week** (undergrad) or **16 hrs/week** (graduate).
 
 ---
 
