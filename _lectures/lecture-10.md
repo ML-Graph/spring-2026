@@ -10,3 +10,4 @@ links:
 - [VAE Slides](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec5-(V)AE.pdf)
 - [GAN Slides](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec6-GAN.pdf)
 - [Codes (AE/VAE)](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec5-AE-VAE.ipynb)
+- [Codes (GAN)](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec6-GAN.ipynb)
