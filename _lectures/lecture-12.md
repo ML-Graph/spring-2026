@@ -7,4 +7,5 @@ thumbnail: /static_files/presentations/lec.jpg
 links:
 ---
 **Course Materials:**
-- Slides (TBD)
+- [Diffusion Slides](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec8-Diffusion.pdf)
+- [Codes (Diffusion)](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec8-Diffusion.ipynb)
