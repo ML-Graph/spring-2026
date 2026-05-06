@@ -5,10 +5,6 @@ title: Diffusion 2
 tldr: "Sampling, guidance intuition, and practical design choices (noise schedule, parameterization)."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-  - name: Diffusion Slides
-    url: /static_files/presentations/slides/Lec8-Diffusion.pdf
-  - name: Codes (Diffusion)
-    url: /static_files/presentations/slides/Lec8-Diffusion.ipynb
 ---
 **Course Materials:**
 - [Diffusion Slides](https://ml-graph.github.io/spring-2026/static_files/presentations/slides/Lec8-Diffusion.pdf)
